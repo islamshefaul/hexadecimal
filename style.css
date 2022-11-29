@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    margin-top: 16%;
+}
+.flex{
+    display: grid;
+    justify-content: center;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: gainsboro;
+    border: none;
+}
+button{
+    padding: 10px 20px;
+    background-color: aqua;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+}
+button:hover{
+    background-color: rgb(250, 238, 5);
+    transition: 0.5s;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 58, 69);
+}
